@@ -18,7 +18,7 @@ localhost/contao-tutorial/public
 Nachdem der Composer mit der Installation fertig ist, könnt ihr euch einen Virtual Host anlegen.
 Das Vorgehen in MAMP ist folgendermaßen:
 
-Zuerst öffnet ihr diese Datei
+Zuerst öffnet ihr diese Datei:
 ```php
 Applications/MAMP/conf/apache/extra/httpd-vhost.conf
 ```
