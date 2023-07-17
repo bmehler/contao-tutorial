@@ -37,14 +37,14 @@ Der Virtual Host sieht dann so aus:
 </VirtualHost>
 ```
 
-Zuletzt muss der Virtual Host noch in die /etc/hosts eingetragen werden.
+Zuletzt muss der Virtual Host noch in die /etc/hosts eingetragen werden:
 ```php
 127.0.0.1     contao-tutorial.local.com
 ```
 
-Mit diesem Link könnt ihr auch im Admin einloggen oder das Frontend besuchen.
+Mit diesem Link könnt ihr auch im Admin einloggen oder das Frontend besuchen:
 ```php
 http://contao-tutorial.local.com/contao/login
 ```
 
-Das wars auch schon.
+Das wars auch schon. Vielleicht konnte ich ja dem einen oder anderem helfen.
