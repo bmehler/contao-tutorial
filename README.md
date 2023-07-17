@@ -47,4 +47,4 @@ Mit diesem Link könnt ihr auch im Admin einloggen oder das Frontend besuchen:
 http://contao-tutorial.local.com/contao/login
 ```
 
-Das wars auch schon. Vielleicht konnte ich ja dem einen oder anderem helfen.
+Das wars auch schon. Vielleicht konnte ich ja dem einen oder anderen helfen.
