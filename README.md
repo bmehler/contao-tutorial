@@ -66,14 +66,11 @@ Folgende Daten werden in die composer.json geschrieben:
     "name": "bmehler/contao-hello-world-bundle",
     "description": "A hello world bundle for CMS Contao",
     "type": "contao-bundle",
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/bmehler/conato-hello-world-bundle.git"
-        }
-    ],
     "require": {
-        "contao/core-bundle": "^4.13"
+         "contao/core-bundle": "^4.13"
+    },
+    "extra": {
+         "contao-manager-plugin": "Bmehler\\ContaoHelloWorldBundle\\ContaoManager\\Plugin"
     },
     "license": "LGPL-3.0-or-later",
     "autoload": {
