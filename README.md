@@ -2,7 +2,7 @@
 
 Derzeit beschäftige ich mich mit dem Content Management System Contao und möchte mein Wissen teilen.
 
-Die Installation mit dem Contao Manager ist bei mir leider fehlgeschlagen. Aus diesem Grund habe ich mich für eine Installtion mit dem Composer entschieden.
+Die Installation mit dem Contao Manager ist bei mir leider fehlgeschlagen. Aus diesem Grund habe ich mich für eine Installation mit dem Composer entschieden.
 
 So könnt ihr Contao mit dem Composer in /Application/MAMP/htdocs in MAMP istallieren:
 ```php
